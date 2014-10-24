@@ -1,0 +1,21 @@
+{
+  "name": "roger-faderer",
+  "version": "1.0.0",
+  "main": [
+    "dist/roger-faderer.js",
+    "dist/roger-faderer.min.js"
+  ],
+  "dependencies": {
+    "jquery": ">=1.8.0"
+  },
+  "ignore": [
+    "node_modules/",
+    "grunt",
+    ".gitignore",
+    "bower.json",
+    "/roger-faderer.js",
+    "Gruntfile.js",
+    "package.json",
+    "CHANGELOG.md"
+  ]
+}
