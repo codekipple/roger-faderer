@@ -1,5 +1,7 @@
-Conformity.js
+Roger Faderer
 =============
+
+Fade those elements like an international tennis star.
 
 jQuery plugin for emulating that medium fade as your scroll effect.
 
@@ -20,7 +22,5 @@ Options
     -100 = 100px above the bottom of the element
     100 = 100px below the bottom of the element
 
-License
--------
-
 Licensed under the MIT license.
+-------------------------------
