@@ -55,11 +55,6 @@
                     opacity,
                     trackPos;
 
-                // bail if scroll position at top
-                if (position.top <= 0 ) {
-                    return;
-                }
-
                 if (position.top < trackStart) {
                     /*
                         scroll position is above the start of the track, element should be fully visible
