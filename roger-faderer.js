@@ -60,8 +60,6 @@
                     return;
                 }
 
-                console.log('tick', position.top);
-
                 if (position.top < trackStart) {
                     /*
                         scroll position is above the start of the track, element should be fully visible
